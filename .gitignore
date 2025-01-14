@@ -56,3 +56,4 @@ celerybeat.pid
 # Environment files
 .env
 .env.*
+c
